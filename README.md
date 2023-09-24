@@ -6,10 +6,12 @@ Digital images are vulnerable to nefarious tampering attacks such as content add
 
 ## to-do lists
 
-- [ ] release code (scheduled late September, 2023)
+- [ ] release code (scheduled late October, 2023)
 
-- [ ] release pretrained models (scheduled late September, 2023)
+- [ ] release pretrained models (scheduled late October, 2023)
 
-- [ ] release hand-crafted manipulated images (scheduled late September, 2023)
+- [ ] release hand-crafted manipulated images (scheduled late October, 2023)
+
+(the first author is currently busy with graduation and job seeking, and therefore wish to postpone release of code subject to some mandatory code cleaning.)
 
 Please kindly star the repo to get updated :)
